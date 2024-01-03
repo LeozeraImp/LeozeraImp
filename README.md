@@ -1,7 +1,7 @@
 ### Ola!! Me chamo Leonardo Imperatori Bezerra
 
 
-- 🔭 Hoje estou a procura de emprego como Desenvolvedor Java Full Stack
+- 🔭 Hoje procura emprego na area de desenvolvimento como full stack, tanto Jr, quanto Pleno
 - 🌱 Estudando programação de jogos
 - 📫 Contate-me no email: leonardo.imperatori12@gmail.com
 - 😄 Pronome: Ele/Dele
